@@ -23,7 +23,7 @@ repository               : "ddxtanx/ddxtanx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Logo.svg"
   name             : "Garrett Credi"
   pronouns         : "he/him"
   bio              : "PhD Student at the University of Minnesota studying stable/equivariant homotopy theory"
