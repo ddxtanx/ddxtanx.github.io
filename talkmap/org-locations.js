@@ -1,22 +1,52 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "The Periodicity Theorem<br />University of Illinois Urbana-Champaign; Urbana, IL, USA",
+    40.1117174,
+    -88.207301
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "The Descent Spectral Sequence for Topological Modular Forms<br />University of Minnesota; Minneapolis, MN, USA",
+    44.9772995,
+    -93.2654692
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "The Serre Spectral Sequence and the Cohomology of BU(n)<br />University of Illinois, Urbana-Champaign; Urbana, IL, USA",
+    40.1117174,
+    -88.207301
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Adams' On the Image J(X) IV<br />University of Illinois Urbana-Champaign; Urbana, IL, USA",
+    40.1117174,
+    -88.207301
+  ],
+  [
+    "Adams' Vector Fields on Spheres<br />University of Illinois Urbana-Champaign; Urbana, IL, USA",
+    40.1117174,
+    -88.207301
+  ],
+  [
+    "Fibrations and Straightening/Unstraightening in \u221e-categories<br />University of Minnesota; Minneapolis, MN, USA",
+    44.9772995,
+    -93.2654692
+  ],
+  [
+    "(Homotopy) Limits and Colimits in \u221e categories<br />University of Minnesota; Minneapolis, MN, USA",
+    44.9772995,
+    -93.2654692
+  ],
+  [
+    "Topology Goes to Therapy - A Survey of Stability in (and beyond) Homotopy Theory<br />University of Minnesota; Minneapolis, MN, USA",
+    44.9772995,
+    -93.2654692
+  ],
+  [
+    "MU Theory<br />University of Illinois Urbana-Champaign; Urbana, IL, USA",
+    40.1117174,
+    -88.207301
+  ],
+  [
+    "Basic Equivariant Homotopy Theory<br />University of Minnesota; Minneapolis, MN, USA",
+    44.9772995,
+    -93.2654692
   ]
 ];
