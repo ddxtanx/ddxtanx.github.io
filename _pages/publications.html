@@ -30,6 +30,10 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+  <!-- if publications empty -->
+  {% if site.publications == empty %}
+    <p>No papers yet, but stay tuned!</p>
+  {% endif %}
 {% endif %}
 
 

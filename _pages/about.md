@@ -42,7 +42,10 @@ It is my imperative to spread the good word of the most
 - Vocal
 - Cuddly
 - Affectionate
+
 cat in existence: Maxwell.
 
 ![Behold the Glory of Maxwell](/images/Maxwell.jpg "Maxwell")
 ![Maxwell By His Tree](/images/Maxwell Tree.jpg "Maxwell Tree")
+
+I am *always* happy to provide Maxwell pictures and updates :)
